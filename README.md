@@ -45,7 +45,7 @@ plt.hist(df.value_eur)
 
 
 
-![png](Fifa%20Regression_files/Fifa%20Regression_2_1.png)
+![png](kaggle-fifa1.png)
 
 
 
@@ -888,5 +888,5 @@ plt.hist(abw)
 
 
 
-![png](Fifa%20Regression_files/Fifa%20Regression_24_1.png)
+![png](kaggle-fifa2.png)
 
