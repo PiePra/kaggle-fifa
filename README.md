@@ -1,7 +1,7 @@
-```python
-###Lineares Regressionsmodell zur Vorhersage von Marktwerten von FIFA20 Feldspielern.
+
+# Linear regression for FIFA 20 player market-vaulues 
 #Dataset: https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset
-```
+
 
 
 ```python
